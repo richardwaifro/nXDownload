@@ -1,4 +1,4 @@
-# nXDownload
+# nXDownload fork
 Download any file directly inside `sdmc:/` on your Nintendo Switch
 ![First impact](https://i.imgur.com/M0Q7Jk9.jpg)
 
